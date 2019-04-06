@@ -1,0 +1,5 @@
+Class name: Get
+Parent Class: Command
+
+Responsibilities:
+* Get the contents of the URL and save it in a file

@@ -1,0 +1,7 @@
+Class name: IDirectory
+
+Responsibilities:
+* Interface for a directory that stores sub-directories and files
+
+Collaborators:
+*

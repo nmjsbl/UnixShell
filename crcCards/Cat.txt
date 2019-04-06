@@ -1,0 +1,8 @@
+Class name: Cat
+Parent class: Command
+
+Responsibilities:
+* Retrieves and displays the contents of the file(s) in the shell
+
+Collaborators:
+* Validator

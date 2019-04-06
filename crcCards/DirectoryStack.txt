@@ -1,0 +1,7 @@
+Class name: DirectoryStack
+
+Responsibilities:
+* Contains the list of directories being pushed
+
+Collaborates:
+* Directory

@@ -1,0 +1,11 @@
+Class name: Ls
+Parent class: Command
+
+Responsibilities:
+* Prints the names of the files and directories in the directory/path
+* Recursively prints the names of the files of the files and directories in the director/path
+
+Collaborators:
+* File
+* Directories
+* Cd

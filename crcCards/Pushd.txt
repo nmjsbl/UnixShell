@@ -1,0 +1,8 @@
+Class name: Pushd
+Parent class: Command
+
+Responsibilities:
+* Saves the current directory in the directory stack
+
+Collaborates:
+* DirectoryStack

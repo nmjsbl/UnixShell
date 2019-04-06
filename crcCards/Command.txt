@@ -1,0 +1,5 @@
+Class name: Command
+Subclasses: Exit, Mkdir, Cd, Echo, Pushd, Popd, Ls, Cat, Pwd, Man, History
+
+Responsibilities:
+* Instructs the shell to perform a certain task

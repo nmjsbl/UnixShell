@@ -1,0 +1,7 @@
+Class name: Mv
+Parent class (if any): Command
+Subclasses (if any): None
+Responsibilities:
+* Moves the given file or directory to another directory
+Collaborators:
+* None

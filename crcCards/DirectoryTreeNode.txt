@@ -1,0 +1,7 @@
+Interface name: DirectoryTreeNode
+
+Responsibilities:
+* Represents a node (directory or file) that resides in a tree 
+
+Collaborators:
+*

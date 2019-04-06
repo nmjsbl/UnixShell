@@ -1,0 +1,5 @@
+Interface name: IFile
+Responsibilities:
+* Interface for a file that is stored in directories 
+
+Collaborators:

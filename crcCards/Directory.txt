@@ -1,0 +1,8 @@
+Class name: Directory
+Interface: DirectoryTreeNode, IDirectory
+
+Responsibilities:
+* Represents a directory that stores sub-directories andfiles
+
+Collaborators:
+* File

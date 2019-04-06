@@ -1,0 +1,7 @@
+Class name: Validator
+Parent class (if any): None
+Subclasses (if any): None
+Responsibilities:
+* Checks that user has entered a valid command and provided valid arguments
+Collaborators:
+* None

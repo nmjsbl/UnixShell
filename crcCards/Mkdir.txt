@@ -1,0 +1,8 @@
+Class name: Mkdir
+Parent class: Command
+
+Responsibilities:
+* Create a new path/directory with the given name in the current path/directory
+
+Collaborators:
+* Validator

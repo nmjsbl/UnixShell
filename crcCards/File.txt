@@ -1,0 +1,8 @@
+Class name: File
+Interface: DirectoryTreeNode, IFile
+
+Responsibilities:
+* Stores data in various forms including strings
+
+Collaborators:
+* String

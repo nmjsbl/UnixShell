@@ -1,0 +1,6 @@
+Interface name: FileSystem
+
+Responsibilities:
+* Represents a file system
+Collaborators:
+*

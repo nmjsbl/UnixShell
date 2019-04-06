@@ -1,0 +1,5 @@
+Class name: Pwd
+Parent class: Command
+
+Responsibilities:
+* Prints the current working directory which also includes the entire path

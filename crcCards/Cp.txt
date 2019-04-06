@@ -1,0 +1,7 @@
+Class name: Cp
+Parent class (if any): Command
+Subclasses (if any): None
+Responsibilities:
+* Copies the given file or directory to another directory
+Collaborators:
+* None

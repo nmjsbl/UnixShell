@@ -1,0 +1,11 @@
+Class name: Find
+
+Responsibilities:
+* Able to locate and display a specific file in a given directory/directories
+* Able to locate a specific directory in a given directory/directories
+
+Collaborators:
+* Directory
+* File
+* DirectoryTree
+* Validator 

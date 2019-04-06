@@ -1,0 +1,4 @@
+Class name: UserInput
+
+Responsibilities:
+* Scans user input

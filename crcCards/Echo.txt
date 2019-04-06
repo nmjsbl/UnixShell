@@ -1,0 +1,12 @@
+Class name: Echo
+Parent class: Command
+
+Responsibilities:
+* Prints the user-given string in the shell if there is no filename given
+* Creates a new file with the filename given by the user
+* Put the user-given string in a file and saves the file in the current directory
+* Append the given string in the specific file given by the user
+* Deletes the file with the same filename given by the user
+
+Collaborators:
+* File

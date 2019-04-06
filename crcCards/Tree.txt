@@ -1,0 +1,11 @@
+Class name: Tree
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Prints the entire file system as a Tree with a root directory
+
+Collaborators:
+* DirectoryTree
+* File
+* Directory

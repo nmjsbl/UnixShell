@@ -1,0 +1,5 @@
+Class name: History
+Parent class: Command
+
+Responsibilities:
+* Retrieve and print out recent commands

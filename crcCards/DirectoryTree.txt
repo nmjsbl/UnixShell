@@ -1,0 +1,8 @@
+Class name: DirectoryTree
+Parent class (if any): None
+Subclasses (if any): None
+Responsibilities:
+* Represents a general n-ary tree of Directories
+Collaborators:
+* Directory
+* File

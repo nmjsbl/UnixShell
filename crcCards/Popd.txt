@@ -1,0 +1,9 @@
+Class name: Popd
+Parent class: Command
+
+Responsibilities:
+* Gets the latest directory in the directory stack and makes that directory as the current directory
+
+Collaborates:
+* DirectoryStack
+* Cd

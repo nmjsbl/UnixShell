@@ -1,0 +1,5 @@
+Class name: Man
+Parent class: Command
+
+Responsibilities:
+* Prints the documentation for the command
